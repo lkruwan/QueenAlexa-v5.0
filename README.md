@@ -1,8 +1,4 @@
  
- ***QUEEN ALEXA***
-
-
-![logo](https://telegra.ph/file/b373cf75c9fddb6721650.jpg)
 
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@SlChaBy/WhatsAlexa-BaileysApi)
